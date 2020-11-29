@@ -1,7 +1,6 @@
 # style_mvp_users
 
-A new Flutter project.
-
+Style project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
